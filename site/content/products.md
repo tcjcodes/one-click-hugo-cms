@@ -40,6 +40,12 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
+    Eat the fat cats food refuse to drink water except out of someone's glass
+    yet love and coo around boyfriend who purrs and makes the perfect moonlight
+    eyes so i can purr and swat the glittery gleaming yarn to him (the yarn is
+    from a $125 sweater). 
+
+
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
@@ -99,5 +105,4 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
 
